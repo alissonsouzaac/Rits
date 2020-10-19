@@ -1,0 +1,26 @@
+{
+  "name": "rits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^8.2.0",
+    "dynamoose": "^2.3.0",
+    "express": "^4.17.1",
+    "hcp": "^0.3.1",
+    "http": "0.0.1-security",
+    "mongoose": "^5.10.9",
+    "nodemon": "^2.0.5",
+    "tools": "0.0.0",
+    "uuid": "^8.3.1",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "nodemon Cliente/app.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
